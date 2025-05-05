@@ -356,5 +356,11 @@ hr{
     padding: 6px 10px;
     margin-bottom: 20px;
   }
-
+  .text{
+    font-size:0.8em;
+  }
+  .figma-link{
+    padding: 5px 10px;
+    font-size:11px;
+  }
 }
